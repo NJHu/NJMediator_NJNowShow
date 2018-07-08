@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
     s.name             = 'NJMediator_NJNowShow'
-    s.version          = '0.1.0'
+    s.version          = '1.1.0'
     s.summary          = 'NJMediator_NJNowShow, NJMediator_NJNowShow'
     s.homepage         = 'https://github.com/njhu/NJMediator_NJNowShow'
     s.license          = { :type => 'MIT', :file => 'LICENSE' }

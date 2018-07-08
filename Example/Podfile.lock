@@ -1,0 +1,16 @@
+PODS:
+  - NJMediator_NJNowShow (0.1.0)
+
+DEPENDENCIES:
+  - NJMediator_NJNowShow (from `../`)
+
+EXTERNAL SOURCES:
+  NJMediator_NJNowShow:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NJMediator_NJNowShow: 6c3efec5e7cd25d208147a4fda2c7f94dd1471c0
+
+PODFILE CHECKSUM: 6063167ffcdbd2d5f61a5967d6d787d958e1adf0
+
+COCOAPODS: 1.5.3

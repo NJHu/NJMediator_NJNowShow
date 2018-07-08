@@ -28,10 +28,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		03CBDFDDA2B9E8A435ADD307 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		03CBDFDDA2B9E8A435ADD307 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		0BA3A5E39CFABB4859674616 /* Pods-NJMediator_NJNowShow_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NJMediator_NJNowShow_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-NJMediator_NJNowShow_Tests/Pods-NJMediator_NJNowShow_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		1C549BF1157BA5A9D2AD1A3B /* Pods-NJMediator_NJNowShow_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NJMediator_NJNowShow_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-NJMediator_NJNowShow_Tests/Pods-NJMediator_NJNowShow_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		5B79A03463B461F6E8A14245 /* NJMediator_NJNowShow.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = NJMediator_NJNowShow.podspec; path = ../NJMediator_NJNowShow.podspec; sourceTree = "<group>"; };
+		5B79A03463B461F6E8A14245 /* NJMediator_NJNowShow.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = NJMediator_NJNowShow.podspec; path = ../NJMediator_NJNowShow.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		607FACD01AFB9204008FA782 /* NJMediator_NJNowShow_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NJMediator_NJNowShow_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		C8365FDD0E500D55397E700A /* Pods_NJMediator_NJNowShow_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NJMediator_NJNowShow_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF6CAAA566C82929E6F9E59E /* Pods-NJMediator_NJNowShow_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NJMediator_NJNowShow_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-NJMediator_NJNowShow_Example/Pods-NJMediator_NJNowShow_Example.release.xcconfig"; sourceTree = "<group>"; };
 		EAB546140496C95A5560EA36 /* Pods-NJMediator_NJNowShow_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NJMediator_NJNowShow_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-NJMediator_NJNowShow_Example/Pods-NJMediator_NJNowShow_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		F1A1DED47BD972B7CE9EE68A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		F1A1DED47BD972B7CE9EE68A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
